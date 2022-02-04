@@ -1,0 +1,7 @@
+{
+  "name": "ionic-capacitor-electron-vue-template",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
